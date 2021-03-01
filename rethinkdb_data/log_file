@@ -1,0 +1,18 @@
+2021-02-16T23:53:31.196962787 0.023268s notice: Recursively removing directory /home/dna-developer/Desktop/login-register/rethinkdb_data/tmp
+2021-02-16T23:53:31.200729579 0.027038s notice: Initializing directory /home/dna-developer/Desktop/login-register/rethinkdb_data
+2021-02-16T23:53:31.201160255 0.027464s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/home/dna-developer/Desktop/login-register/rethinkdb_data' did not already exist or is empty.)
+2021-02-16T23:53:31.201193084 0.027497s notice: Running rethinkdb 2.4.1~0focal (CLANG 10.0.0 )...
+2021-02-16T23:53:31.202873494 0.029178s notice: Running on Linux 5.8.0-7642-generic x86_64
+2021-02-16T23:53:31.202908369 0.029212s notice: Loading data from directory /home/dna-developer/Desktop/login-register/rethinkdb_data
+2021-02-16T23:53:31.228391705 0.054697s info: Automatically using cache size of 6804 MB
+2021-02-16T23:53:31.232593965 0.058898s notice: Listening for intracluster connections on port 29015
+2021-02-16T23:53:31.237101244 0.063406s notice: Listening for client driver connections on port 28015
+2021-02-16T23:53:31.237168799 0.063473s notice: Listening for administrative HTTP connections on port 8080
+2021-02-16T23:53:31.237176000 0.063480s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2021-02-16T23:53:31.237183049 0.063487s notice: Listening on driver addresses: 127.0.0.1, ::1
+2021-02-16T23:53:31.237192177 0.063496s notice: Listening on http addresses: 127.0.0.1, ::1
+2021-02-16T23:53:31.237198027 0.063502s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2021-02-16T23:53:31.237205519 0.063509s notice: Server ready, "devs_s7v" 94882600-e5ac-4b25-906b-72ae4d3ed344
+2021-02-17T00:31:50.903250256 2299.729555s info: Table 7f7afd26-fa08-465e-bdac-a9f625c21aed: Starting a new Raft election for term 1.
+2021-02-17T00:31:50.903492754 2299.729797s info: Table 7f7afd26-fa08-465e-bdac-a9f625c21aed: Added replica on this server.
+2021-02-17T00:31:50.906244571 2299.732549s info: Table 7f7afd26-fa08-465e-bdac-a9f625c21aed: This server is Raft leader for term 1. Latest log index is 0.
